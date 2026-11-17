@@ -1,3 +1,1 @@
-[# Проектная работа «ОНО ТЕБЕ НАДО»
-Аукцион вещей, в которые никто не верил.
-](https://github.com/S1A7S/ono-tebe-nado-ad)
+https://github.com/S1A7S/ono-tebe-nado-ad
